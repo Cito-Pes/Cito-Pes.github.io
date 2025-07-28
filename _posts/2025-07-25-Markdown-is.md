@@ -1,4 +1,3 @@
-
 ---
 title : 마크다운 기초 사용방법
 image : /assets/markdown.jpg
