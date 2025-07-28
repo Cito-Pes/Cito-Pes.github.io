@@ -1,13 +1,24 @@
-
 ---
 title : 마크다운 기초 사용방법
-image : /assets/markdown.jpg
+description : 마크다운 문서의 작성법을 공부해 봅니다.
+img_path: /assets/img/
+image:
+  path: markdown.jpg
+  alt: "마크다운(Markdown) 로고"
 tag : [마크다운,markdown,문서]
 categories : [Blogging]
+author : Rich Daddy
+date : 2025-07-28
 pin : true
 math : true
 mermaid : true
 ---
+
+--------------
+> **<u>KEYWORDS</u>**    
+> 글의 키워드를 입력한다.. 블라블라
+{: .prompt-info }
+----------------------
 
 # 마크다운이란?
 [마크다운(Markdown)](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)은 일반 텍스트 서식을 저장하는 쉬운 방법의 경량 ```마크업 언어``` 입니다.\
